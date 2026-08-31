@@ -23,3 +23,6 @@
 - logout
 - profile page
 - build the user crad on the feed page
+- Edit profile feature and show toast on save of profile
+- feature for seeing all connections in new page
+- feature for seeing all connectionRequests in new page
