@@ -26,3 +26,7 @@
 - Edit profile feature and show toast on save of profile
 - feature for seeing all connections in new page
 - feature for seeing all connectionRequests in new page
+- Feature to accept/Reject requests
+- send/ignore the User card
+- signup
+- E2E testing
