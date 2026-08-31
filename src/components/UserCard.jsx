@@ -1,4 +1,4 @@
-const UserCrad = ({ user }) => {
+const UserCard = ({ user }) => {
   const { firstName, lastName, photoUrl, age, gender, about, skills } = user;
   return (
     <div className="card bg-base-300 w-96 shadow-sm">
@@ -18,4 +18,4 @@ const UserCrad = ({ user }) => {
   );
 };
 
-export default UserCrad;
+export default UserCard;

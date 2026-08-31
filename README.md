@@ -22,4 +22,4 @@
 - if token is not present, redirect them to /
 - logout
 - profile page
--
+- build the user crad on the feed page
